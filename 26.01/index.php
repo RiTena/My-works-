@@ -189,8 +189,8 @@ echo ("<br><br><br>");
 <?php
 echo ("уровень 2.3<br>");
 echo ("задача 1<br>");
-$slovo1 = "хлеb";
-$slovo2 = "bоров";
+$slovo1 = "ego";
+$slovo2 = "iskajenie";
 if ($slovo1[-1] == $slovo2[0]){
     echo "совпадают<br>";
 };
